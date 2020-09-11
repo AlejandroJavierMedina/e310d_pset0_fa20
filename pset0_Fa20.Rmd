@@ -1,6 +1,6 @@
 ---
 title: "Problem Set 0"
-author: "Name here"
+author: Alejandro Medina
 output:
   html_document:
     df_print: paged
@@ -15,6 +15,9 @@ plot(cars)
 ```
 
 Add a new chunk by clicking the *Insert Chunk* button (make sure it's an R chunk) on the toolbar or by pressing *Ctrl+Alt+I* (Mac: Cmd+Option/Alt+I).
+```{r}
+
+```
 
 When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* [Mac: Cmd+Shift+K] to preview the HTML file).
 
@@ -23,6 +26,8 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 # Basic Programming
 1. Try some basic math here.
 ```{r}
+1+1
+
 
 ```
 
@@ -30,7 +35,7 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 ```{r}
 x <- 3
 ```
-<answer here>
+<Gives X a value of 3>
 
 3. What does this code do?
 
@@ -40,7 +45,7 @@ if (x < 10) {
   x <- 10
 }
 ```
-<answer here>
+<Give x a value of 5 and proves that 5 is less than 10>
 
 
 # Submitting
